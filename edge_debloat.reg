@@ -78,7 +78,7 @@ Windows Registry Editor Version 5.00
 ;"DnsOverHttpsTemplates"="<PUT_DOH_TEMPLATE_HERE>"
 
 "NetworkPredictionOptions"=dword:00000002
-"WebRtcLocalhostIpHandling"="disable_non_proxied_udp"
+;"WebRtcLocalhostIpHandling"="disable_non_proxied_udp"
 
 
 ; 6. Extensions
