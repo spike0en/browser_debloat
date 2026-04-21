@@ -1,6 +1,7 @@
 Windows Registry Editor Version 5.00
 ; Author: Spike (spike0en)
-; Date: 2026-03-09
+; Version: 1.89.137
+; Updated: 2026-04-21
 
 [-HKEY_CURRENT_USER\SOFTWARE\Policies\BraveSoftware\Brave]
 [-HKEY_LOCAL_MACHINE\SOFTWARE\Policies\BraveSoftware\Brave]
@@ -35,7 +36,6 @@ Windows Registry Editor Version 5.00
 "BlockThirdPartyCookies"=dword:00000001
 "BraveP3AEnabled"=dword:00000000
 "BraveStatsPingEnabled"=dword:00000000
-"CloudReportingEnabled"=dword:00000000
 "FeedbackSurveysEnabled"=dword:00000000
 "MetricsReportingEnabled"=dword:00000000
 "SafeBrowsingExtendedReportingEnabled"=dword:00000000
@@ -64,7 +64,6 @@ Windows Registry Editor Version 5.00
 "PasswordLeakDetectionEnabled"=dword:00000000
 "PasswordManagerEnabled"=dword:00000000
 "PasswordSharingEnabled"=dword:00000000
-"RelatedWebsiteSetsEnabled"=dword:00000000
 "SafeBrowsingDeepScanningEnabled"=dword:00000000
 "SafeBrowsingProtectionLevel"=dword:00000000
 
@@ -72,7 +71,6 @@ Windows Registry Editor Version 5.00
 "AlternateErrorPagesEnabled"=dword:00000000
 "AlwaysOpenPdfExternally"=dword:00000001
 "MediaRecommendationsEnabled"=dword:00000001
-"PromotionalTabsEnabled"=dword:00000000
 "PromotionsEnabled"=dword:00000000
 "ShowHomeButton"=dword:00000001
 "SpellcheckEnabled"=dword:00000000
